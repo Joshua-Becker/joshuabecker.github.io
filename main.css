@@ -15,7 +15,7 @@
 	position: absolute;
 	box-sizing: border-box;
 	background: #E5E5E5;
-	width: 1920px;
+	width: 100%;
 	height: 1954px;
 	background-color: rgba(38,37,37,1);
 	overflow: hidden;
@@ -28,7 +28,7 @@
 }
 #Group_5 {
 	position: absolute;
-	width: 1929px;
+	width: 100%;
 	height: 1954px;
 	left: 0px;
 	top: 0px;
@@ -58,8 +58,11 @@
 }
 #Contact {
 	position: absolute;
-	left: 896px;
-	top: 1880px;
+    top: 1880px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+	margin: auto;
 	overflow: visible;
 	width: 138px;
 	white-space: nowrap;
@@ -74,9 +77,11 @@
 	position: absolute;
 	width: 623.82px;
 	height: 30px;
-	left: 653px;
 	top: 137.343px;
-	overflow: visible;
+    left: 0;
+    right: 0;
+    margin: auto;
+    overflow: visible;
 }
 #Web_Development {
 	position: absolute;
@@ -138,7 +143,9 @@
 }
 #About_Us {
 	position: absolute;
-	left: 861px;
+	left: 0;
+    right: 0;
+    margin: auto;
 	top: 1330.8px;
 	overflow: visible;
 	width: 208px;
@@ -153,7 +160,9 @@
 }
 #We_provide_comprehensive_web_a {
 	position: absolute;
-	left: 604px;
+    left: 0;
+    right: 0;
+    margin: auto;
 	top: 1419.269px;
 	overflow: visible;
 	width: 721px;
@@ -167,9 +176,11 @@
 }
 #Component_1___3 {
 	position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
 	width: 221px;
 	height: 221px;
-	left: 854px;
 	top: 458px;
 	overflow: visible;
 }
@@ -183,7 +194,7 @@
 }
 #_J {
 	position: absolute;
-	left: 119.135px;
+	left: 128.135px;
 	top: 47.994px;
 	overflow: visible;
 	width: 31px;
@@ -419,7 +430,7 @@
 }
 #_J_A2_Text_10 {
 	position: absolute;
-	left: 71.54px;
+	left: 80.54px;
 	top: 24.036px;
 	overflow: visible;
 	width: 31px;
@@ -485,11 +496,12 @@
 	top: 0px;
 }
 .Line_49 {
-	overflow: visible;
 	position: absolute;
 	top: 1065.5px;
-	left: 196.5px;
-	width: 1537px;
+    width: 80%;
+    left: 0;
+    right: 0;
+    margin: auto;
 	height: 2px;
 }
 #Group_7 {
@@ -576,7 +588,9 @@
 	position: absolute;
 	width: 350px;
 	height: 67px;
-	left: 790px;
+    left: 0;
+    right: 0;
+    margin: auto;
 	top: 973px;
 	overflow: visible;
 }
