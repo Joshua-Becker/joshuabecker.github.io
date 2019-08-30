@@ -35,15 +35,18 @@
 	overflow: visible;
 }
 #MVIMG_20190705_112111 {
-	opacity: 0.227;
+	opacity: 0.900;
 }
 .MVIMG_20190705_112111 {
 	position: absolute;
-	overflow: visible;
+	overflow: hidden;
 	width: 1929px;
 	height: 1954px;
-	left: 0px;
-	top: 0px;
+    top: -9999px;
+    bottom: -9999px;
+    left: -9999px;
+    right: -9999px;
+    margin: auto;
 }
 #Rectangle_15 {
 	opacity: 0.281;
@@ -58,11 +61,10 @@
 }
 #Contact {
 	position: absolute;
-    top: 1880px;
     left: 0;
     right: 0;
-    bottom: 0;
-	margin: auto;
+    margin: auto;
+	top: 1880px;
 	overflow: visible;
 	width: 138px;
 	white-space: nowrap;
@@ -81,7 +83,7 @@
     left: 0;
     right: 0;
     margin: auto;
-    overflow: visible;
+	overflow: visible;
 }
 #Web_Development {
 	position: absolute;
@@ -143,7 +145,7 @@
 }
 #About_Us {
 	position: absolute;
-	left: 0;
+    left: 0;
     right: 0;
     margin: auto;
 	top: 1330.8px;
@@ -174,316 +176,6 @@
 	font-size: 30px;
 	color: rgba(255,255,255,1);
 }
-#Component_1___3 {
-	position: absolute;
-    left: 0;
-    right: 0;
-    margin: auto;
-	width: 221px;
-	height: 221px;
-	top: 458px;
-	overflow: visible;
-}
-.Ellipse_8 {
-	position: absolute;
-	overflow: visible;
-	width: 221px;
-	height: 221px;
-	left: 0px;
-	top: 0px;
-}
-#_J {
-	position: absolute;
-	left: 128.135px;
-	top: 47.994px;
-	overflow: visible;
-	width: 31px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Hoefler Text;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 40px;
-	color: rgba(255,255,255,1);
-}
-#A {
-	position: absolute;
-	left: 119.135px;
-	top: 97.994px;
-	overflow: visible;
-	width: 33px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Hoefler Text;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 40px;
-	color: rgba(255,255,255,1);
-}
-#N {
-	position: absolute;
-	left: 117.135px;
-	top: 141.994px;
-	overflow: visible;
-	width: 36px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Hoefler Text;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 40px;
-	color: rgba(255,255,255,1);
-}
-.Line_27 {
-	overflow: visible;
-	position: absolute;
-	top: 72.5px;
-	left: 47.5px;
-	width: 1px;
-	height: 74px;
-}
-.Polygon_4 {
-	overflow: visible;
-	position: absolute;
-	top: 144px;
-	left: 41px;
-	width: 14px;
-	height: 13px;
-	transform: rotate(180deg);
-}
-.Line_28 {
-	overflow: visible;
-	position: absolute;
-	top: 72.5px;
-	left: 47.5px;
-	width: 8.707px;
-	height: 8.707px;
-}
-.Line_32 {
-	overflow: visible;
-	position: absolute;
-	top: 64.5px;
-	left: 47.5px;
-	width: 8.707px;
-	height: 8.707px;
-}
-.Line_30 {
-	overflow: visible;
-	position: absolute;
-	top: 88.5px;
-	left: 47.5px;
-	width: 8.707px;
-	height: 8.707px;
-}
-.Line_29 {
-	overflow: visible;
-	position: absolute;
-	top: 80.5px;
-	left: 47.5px;
-	width: 8.707px;
-	height: 8.707px;
-}
-.Line_31 {
-	overflow: visible;
-	position: absolute;
-	top: 96.5px;
-	left: 47.5px;
-	width: 8.707px;
-	height: 8.707px;
-}
-.Line_33 {
-	overflow: visible;
-	position: absolute;
-	top: 72.5px;
-	left: 39.5px;
-	width: 8.707px;
-	height: 8.707px;
-}
-.Line_34 {
-	overflow: visible;
-	position: absolute;
-	top: 64.5px;
-	left: 39.5px;
-	width: 8.707px;
-	height: 8.707px;
-}
-.Line_35 {
-	overflow: visible;
-	position: absolute;
-	top: 88.5px;
-	left: 39.5px;
-	width: 8.707px;
-	height: 8.707px;
-}
-.Line_36 {
-	overflow: visible;
-	position: absolute;
-	top: 80.5px;
-	left: 39.5px;
-	width: 8.707px;
-	height: 8.707px;
-}
-.Line_37 {
-	overflow: visible;
-	position: absolute;
-	top: 96.5px;
-	left: 39.5px;
-	width: 8.707px;
-	height: 8.707px;
-}
-.Line_48 {
-	overflow: visible;
-	position: absolute;
-	top: 72.5px;
-	left: 173.5px;
-	width: 1px;
-	height: 74px;
-}
-.Polygon_5 {
-	overflow: visible;
-	position: absolute;
-	top: 144px;
-	left: 167px;
-	width: 14px;
-	height: 13px;
-	transform: rotate(180deg);
-}
-.Line_46 {
-	overflow: visible;
-	position: absolute;
-	top: 72.5px;
-	left: 173.5px;
-	width: 8.707px;
-	height: 8.707px;
-}
-.Line_47 {
-	overflow: visible;
-	position: absolute;
-	top: 64.5px;
-	left: 173.5px;
-	width: 8.707px;
-	height: 8.707px;
-}
-.Line_44 {
-	overflow: visible;
-	position: absolute;
-	top: 88.5px;
-	left: 173.5px;
-	width: 8.707px;
-	height: 8.707px;
-}
-.Line_45 {
-	overflow: visible;
-	position: absolute;
-	top: 80.5px;
-	left: 173.5px;
-	width: 8.707px;
-	height: 8.707px;
-}
-.Line_43 {
-	overflow: visible;
-	position: absolute;
-	top: 96.5px;
-	left: 173.5px;
-	width: 8.707px;
-	height: 8.707px;
-}
-.Line_38 {
-	overflow: visible;
-	position: absolute;
-	top: 72.5px;
-	left: 165.5px;
-	width: 8.707px;
-	height: 8.707px;
-}
-.Line_39 {
-	overflow: visible;
-	position: absolute;
-	top: 64.5px;
-	left: 165.5px;
-	width: 8.707px;
-	height: 8.707px;
-}
-.Line_40 {
-	overflow: visible;
-	position: absolute;
-	top: 88.5px;
-	left: 165.5px;
-	width: 8.707px;
-	height: 8.707px;
-}
-.Line_41 {
-	overflow: visible;
-	position: absolute;
-	top: 80.5px;
-	left: 165.5px;
-	width: 8.707px;
-	height: 8.707px;
-}
-.Line_42 {
-	overflow: visible;
-	position: absolute;
-	top: 96.5px;
-	left: 165.5px;
-	width: 8.707px;
-	height: 8.707px;
-}
-#_J_A2_Text_10 {
-	position: absolute;
-	left: 80.54px;
-	top: 24.036px;
-	overflow: visible;
-	width: 31px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Hoefler Text;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 40px;
-	color: rgba(255,255,255,1);
-}
-#U {
-	position: absolute;
-	left: 69.54px;
-	top: 74.036px;
-	overflow: visible;
-	width: 34px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Hoefler Text;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 40px;
-	color: rgba(255,255,255,1);
-}
-#S {
-	position: absolute;
-	left: 71.54px;
-	top: 115.036px;
-	overflow: visible;
-	width: 28px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Hoefler Text;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 40px;
-	color: rgba(255,255,255,1);
-}
-#T {
-	position: absolute;
-	left: 69.54px;
-	top: 159.036px;
-	overflow: visible;
-	width: 32px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Hoefler Text;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 40px;
-	color: rgba(255,255,255,1);
-}
 #Rectangle_14 {
 	opacity: 0.281;
 }
@@ -498,10 +190,10 @@
 .Line_49 {
 	position: absolute;
 	top: 1065.5px;
-    width: 80%;
     left: 0;
     right: 0;
     margin: auto;
+	width: 80%;
 	height: 2px;
 }
 #Group_7 {
@@ -570,7 +262,7 @@
 	font-size: 30px;
 	color: rgba(255,255,255,1);
 }
-#Contact_A2_Text_17 {
+#Contact_A2_Text_10 {
 	position: absolute;
 	left: 388px;
 	top: 21px;
@@ -632,4 +324,14 @@
 	width: 23px;
 	height: 27px;
 	transform: rotate(90deg);
+}
+#Component_1___5 {
+	position: absolute;
+	width: 221px;
+	height: 221px;
+    left: 0;
+    right: 0;
+    margin: auto;
+	top: 470px;
+	overflow: visible;
 }
